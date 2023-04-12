@@ -13,10 +13,10 @@ variables:
   azureServiceConnectionId: 'myServiceConnection'
   
   # TODO: Specify the value of the existing Web App name
-  webAppName: 'udactiy-training-flask-ml-service-2'
+  webAppName: 'flask-ml-service-2'
 
   # Environment name
-  environmentName: 'udactiy-training-flask-ml-service-2'
+  environmentName: 'flask-ml-service-2'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
